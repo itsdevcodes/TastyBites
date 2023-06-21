@@ -522,17 +522,7 @@ You can remove below code if you don't want Footer to be responsive */
   
   .footer-distributed {
     height: auto;
-  }
-  .btn-primary {
-    background-color: red;
-    height: 32px;
-    width: 139px;
-    padding: 9px 0 18px 33px;
-    margin: 8px 0 84px 130px;
-    font-family: sans-serif;
-    font-weight: 700;
-    color: cornsilk;
-  }
+    }
   
   .itsm:hover{
     color: black;
